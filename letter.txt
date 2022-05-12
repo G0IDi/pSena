@@ -2,6 +2,7 @@
 <body>
 
 	<h1>"aña"</h1>
+	<h2>"PLATA ES PLATA"</h2>
 
 </body>
 </html>
